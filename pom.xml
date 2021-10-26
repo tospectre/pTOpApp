@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jnesis.jap</groupId>
-    <artifactId>PearToPear</artifactId>
+    <artifactId>pearToPear</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>PearToPear</name>
+    <name>pearToPear</name>
     <url>http://maven.apache.org</url>
 
     <properties>
